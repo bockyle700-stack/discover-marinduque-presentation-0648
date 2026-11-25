@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Discover Marinduque | The Heart of the Philippines</title>
+  <meta name="description" content="A presentation of the beaches, caves, waterfalls, churches and festivals of Marinduque, the Heart of the Philippines.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Top bar -->
+  <header class="topbar">
+    <div class="brand">
+      <span class="brand-mark" aria-hidden="true">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M20.84 4.61a5.5 5.5 0 00-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 00-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 000-7.78z"/></svg>
+      </span>
+      <span class="brand-name">Marinduque</span>
+    </div>
+
+    <div id="section-label" class="section-label" aria-live="polite"></div>
+
+    <div class="topbar-right">
+      <span id="slide-counter" class="slide-counter">1 / 1</span>
+      <div class="menu-wrap">
+        <button id="menu-toggle" class="menu-btn" aria-haspopup="true" aria-expanded="false" aria-controls="menu-dropdown">
+          <span>Menu</span>
+          <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M4 6h16M4 12h16M4 18h16"/></svg>
+        </button>
+        <div id="menu-dropdown" class="menu-dropdown" role="menu" hidden>
+          <button class="menu-item" role="menuitem" id="menu-agenda">
+            <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M8 6h13M8 12h13M8 18h13M3 6h.01M3 12h.01M3 18h.01"/></svg>
+            Presentation Agenda
+          </button>
+          <button class="menu-item" role="menuitem" id="menu-admin">
+            <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="11" width="18" height="11" rx="2"/><path stroke-linecap="round" d="M7 11V7a5 5 0 0110 0v4"/></svg>
+            <span id="menu-admin-label">Admin Login</span>
+          </button>
+        </div>
+      </div>
+    </div>
+    <div id="progress" class="progress" aria-hidden="true"><span id="progress-bar"></span></div>
+  </header>
+
+  <!-- Prev / Next -->
+  <div class="floating-nav">
+    <button id="prev-btn" class="nav-arrow-btn" aria-label="Previous slide">
+      <svg width="22" height="22" fill="none" stroke="currentColor" stroke-width="2.2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M15 19l-7-7 7-7"/></svg>
+    </button>
+    <button id="next-btn" class="nav-arrow-btn" aria-label="Next slide">
+      <svg width="22" height="22" fill="none" stroke="currentColor" stroke-width="2.2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/></svg>
+    </button>
+  </div>
+
+  <!-- Slides -->
+  <main id="presentation-container" class="presentation-container"></main>
+
+  <!-- Agenda drawer -->
+  <div id="index-modal" class="modal-overlay" aria-hidden="true">
+    <div class="modal-content index-drawer" role="dialog" aria-modal="true" aria-labelledby="agenda-title">
+      <div class="modal-header">
+        <h2 id="agenda-title">Presentation Agenda</h2>
+        <button id="close-index" class="close-btn" aria-label="Close agenda">&times;</button>
+      </div>
+      <div id="agenda-list" class="agenda-list"></div>
+    </div>
+  </div>
+
+  <!-- Admin login -->
+  <div id="login-modal" class="modal-overlay" aria-hidden="true">
+    <div class="modal-content login-card" role="dialog" aria-modal="true" aria-labelledby="login-title">
+      <button id="close-login" class="close-btn" aria-label="Close">&times;</button>
+      <div class="login-icon" aria-hidden="true">
+        <svg width="26" height="26" fill="none" stroke="currentColor" stroke-width="1.8" viewBox="0 0 24 24"><rect x="3" y="11" width="18" height="11" rx="2"/><path stroke-linecap="round" d="M7 11V7a5 5 0 0110 0v4"/></svg>
+      </div>
+      <h2 id="login-title">Admin Login</h2>
+      <p class="login-help">Enter the admin password to edit text and upload photos.</p>
+      <form id="login-form" autocomplete="off">
+        <label class="field-label" for="login-password">Password</label>
+        <div class="password-row">
+          <input id="login-password" type="password" autocomplete="current-password" required>
+          <button type="button" id="toggle-password" class="ghost-btn" aria-label="Show password">Show</button>
+        </div>
+        <p id="login-error" class="login-error" role="alert" hidden></p>
+        <button type="submit" id="login-submit" class="btn-primary full">Sign in</button>
+      </form>
+    </div>
+  </div>
+
+  <!-- Admin toolbar -->
+  <div id="admin-bar" class="admin-bar" hidden>
+    <span class="admin-badge">Admin mode</span>
+    <span id="save-status" class="save-status">All changes saved</span>
+    <button id="admin-add" class="admin-btn">Add slide</button>
+    <button id="admin-delete" class="admin-btn danger">Delete slide</button>
+    <button id="admin-exit" class="admin-btn primary">Done</button>
+  </div>
+
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <input type="file" id="file-input" accept="image/jpeg,image/png,image/webp,image/gif,video/mp4,video/quicktime,video/webm" hidden>
+
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: discover-marinduque
+    runtime: docker
+    plan: starter
+    envVars:
+      - key: ADMIN_PASSWORD
+        sync: false
+    disk:
+      name: marinduque-data
+      mountPath: /data
+      sizeGB: 5

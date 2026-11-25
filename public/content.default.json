@@ -1,0 +1,1242 @@
+{
+  "version": 2,
+  "slides": [
+    {
+      "type": "title",
+      "section": "Introduction",
+      "tag": "Welcome",
+      "title": "Discover Marinduque",
+      "subtitle": "The heart-shaped island at the center of the Philippines: pristine beaches, centuries-old churches, hidden caves and waterfalls, and the legendary Moriones Festival.",
+      "buttonText": "Begin the Tour",
+      "id": "s001",
+      "image": null,
+      "caption": "",
+      "cite": [
+        2,
+        6,
+        12
+      ]
+    },
+    {
+      "type": "cards",
+      "section": "Introduction",
+      "tag": "Island Overview",
+      "title": "The Heart of the Philippines",
+      "subtitle": "Marinduque is a heart-shaped island province in the Mimaropa region, lying between Tayabas Bay and the Sibuyan Sea.",
+      "cards": [
+        {
+          "icon": "pin",
+          "title": "Location",
+          "desc": "South of Luzon, between Tayabas Bay to the north and the Sibuyan Sea to the south."
+        },
+        {
+          "icon": "compass",
+          "title": "Geographic Center",
+          "desc": "The Luzon Datum of 1911 in Mogpog is the reference point for the country's maps and surveys."
+        },
+        {
+          "icon": "landmark",
+          "title": "Six Municipalities",
+          "desc": "Boac (the capital), Mogpog, Gasan, Buenavista, Torrijos and Santa Cruz."
+        },
+        {
+          "icon": "star",
+          "title": "Moriones Festival",
+          "desc": "A Holy Week tradition of masked Roman centurions, celebrated in Boac, Mogpog and Gasan."
+        },
+        {
+          "icon": "waves",
+          "title": "Islands & Beaches",
+          "desc": "White-sand islands, sandbars, dive sites and the long beaches of the mainland coast."
+        },
+        {
+          "icon": "sun",
+          "title": "Nature & Adventure",
+          "desc": "Mount Malindig, hot springs, waterfalls and some of the best-known caves in the region."
+        }
+      ],
+      "id": "s002",
+      "image": null,
+      "caption": "",
+      "cite": [
+        2,
+        6,
+        12
+      ]
+    },
+    {
+      "type": "cards",
+      "section": "Introduction",
+      "tag": "The Six Towns",
+      "title": "Six Towns, One Island",
+      "subtitle": "Each municipality has its own character. Here is where this tour will take you.",
+      "cards": [
+        {
+          "icon": "landmark",
+          "title": "Boac",
+          "desc": "The heritage capital: hilltop cathedral, museum, ancestral houses and waterfalls."
+        },
+        {
+          "icon": "compass",
+          "title": "Mogpog",
+          "desc": "The gateway town: Luzon Datum, Paadjao Falls, caves and Moriones mask makers."
+        },
+        {
+          "icon": "waves",
+          "title": "Gasan",
+          "desc": "Tres Reyes Islands, butterfly gardens and the Gasang-Gasang Festival."
+        },
+        {
+          "icon": "sun",
+          "title": "Buenavista",
+          "desc": "Malindig country: the volcano, sulphur springs and Elephant Island."
+        },
+        {
+          "icon": "anchor",
+          "title": "Torrijos",
+          "desc": "Poctoy White Beach, historic battlefields, caves and falls."
+        },
+        {
+          "icon": "navigation",
+          "title": "Santa Cruz",
+          "desc": "The island-hopping hub: Maniwaya, Palad Sandbar, Ungab Rock and the great caves."
+        }
+      ],
+      "id": "s003",
+      "image": null,
+      "caption": "",
+      "cite": [
+        2,
+        6,
+        12
+      ]
+    },
+    {
+      "type": "chapter",
+      "section": "Boac",
+      "tag": "Chapter 1 • Boac",
+      "title": "The Heritage Capital",
+      "subtitle": "Nicknamed Montserrat de Marinduque, Boac is the provincial capital, a town of hilltop churches, ancestral houses and forest waterfalls.",
+      "id": "s004",
+      "image": null,
+      "caption": "",
+      "cite": [
+        2
+      ]
+    },
+    {
+      "type": "spot",
+      "section": "Boac",
+      "tag": "Church • Boac",
+      "title": "Boac Cathedral",
+      "subtitle": "Built in 1792, this hilltop church is regarded as one of the oldest in Marinduque, with a Filipino-Hispanic Gothic facade and an adobe bell tower.",
+      "category": "Church / Heritage",
+      "location": "Poblacion, Boac",
+      "howToGet": "A short tricycle ride from Boac town proper, followed by a climb up the hill to the church grounds.",
+      "whatToDo": "Admire the facade and bell tower, visit the venerated image of Our Lady of Biglang Awa, and take in views of the town and sea from the hilltop.",
+      "tip": "Dress modestly when visiting; the cathedral is an active place of worship.",
+      "id": "s005",
+      "image": null,
+      "caption": "Photo credit: Benedict Esber (Bengoeswhere), Wikimedia Commons, CC BY-SA 4.0.",
+      "cite": [
+        1,
+        6
+      ],
+      "creditCite": [
+        13
+      ]
+    },
+    {
+      "type": "spot",
+      "section": "Boac",
+      "tag": "Museum • Boac",
+      "title": "Marinduque Museum",
+      "subtitle": "The province's principal museum, housed in a heritage building, presents the island's history, culture and crafts.",
+      "category": "Museum",
+      "location": "Barangay Malusak, Boac",
+      "howToGet": "Near the municipal hall area; reachable by tricycle from the Boac town proper.",
+      "whatToDo": "View historical exhibits, artifacts and traditional Moriones masks, and learn how the island's story connects to its festivals.",
+      "tip": "Pair it with the cathedral for a half-day heritage walk.",
+      "id": "s006",
+      "image": null,
+      "caption": "",
+      "cite": [
+        1,
+        6
+      ]
+    },
+    {
+      "type": "spot",
+      "section": "Boac",
+      "tag": "Heritage • Boac",
+      "title": "Boac Heritage Town",
+      "subtitle": "Old streets and ancestral houses from the Spanish and American periods still stand below the cathedral hill.",
+      "category": "Heritage / Walking Tour",
+      "location": "Poblacion, Boac",
+      "howToGet": "Start from Boac's central plaza and public market and explore on foot.",
+      "whatToDo": "Stroll past ancestral homes, photograph period architecture, and stop at local cafes and pasalubong stores.",
+      "tip": "Early morning and late afternoon are the best times for walking and photography.",
+      "id": "s007",
+      "image": null,
+      "caption": "",
+      "cite": [
+        1,
+        6
+      ]
+    },
+    {
+      "type": "spot",
+      "section": "Boac",
+      "tag": "History • Boac",
+      "title": "Battle of Paye Monument",
+      "subtitle": "A historical marker commemorating the 1900 Battle of Paye, where Marinduque freedom fighters faced American forces during the Philippine-American War.",
+      "category": "Historical Site",
+      "location": "Paye, Boac",
+      "howToGet": "Take a jeepney or tricycle from the Boac town proper and ask locals for the marker.",
+      "whatToDo": "Learn about the island's role in the Philippine-American War and pay respects at the memorial.",
+      "tip": "Visit alongside the Battle of Pulang Lupa Shrine in Torrijos for the fuller story.",
+      "id": "s008",
+      "image": null,
+      "caption": "",
+      "cite": [
+        1,
+        6
+      ]
+    },
+    {
+      "type": "spot",
+      "section": "Boac",
+      "tag": "Waterfall • Boac",
+      "title": "Kabugsakan Falls",
+      "subtitle": "A cascade of roughly 40 feet tucked in the forested interior of Boac, with a cool natural pool at its base.",
+      "category": "Waterfall",
+      "location": "Interior Boac",
+      "howToGet": "Travel by tricycle or habal-habal to the trailhead, then continue on foot with a local guide.",
+      "whatToDo": "Swim in the pool, enjoy a picnic by the water, and photograph the falls surrounded by greenery.",
+      "tip": "Avoid visiting during or right after heavy rain; trails and rocks become slippery.",
+      "id": "s009",
+      "image": null,
+      "caption": "",
+      "cite": [
+        1,
+        6
+      ]
+    },
+    {
+      "type": "spot",
+      "section": "Boac",
+      "tag": "Waterfall • Boac",
+      "title": "Busay & Lambingan Falls",
+      "subtitle": "Two more of Boac's refreshing waterfalls, set deep in the island's forested uplands.",
+      "category": "Waterfall",
+      "location": "Interior Boac",
+      "howToGet": "Arrange a guide through the municipal tourism office or a local resort; access roads can be rough.",
+      "whatToDo": "Go waterfall-hopping, swim in the cool pools and enjoy a day in the hills.",
+      "tip": "Bring water shoes, a dry bag and plenty of drinking water.",
+      "id": "s010",
+      "image": null,
+      "caption": "",
+      "cite": [
+        1,
+        6
+      ]
+    },
+    {
+      "type": "spot",
+      "section": "Boac",
+      "tag": "Hot Spring • Boac",
+      "title": "Mainit Hot Springs",
+      "subtitle": "Free-flowing springs of warm, therapeutic water, a long-time favorite of Marinduquenos and the main draw of Barangay Mainit.",
+      "category": "Hot Spring",
+      "location": "Barangay Mainit, Boac",
+      "howToGet": "Take a tricycle or habal-habal from Boac town proper to Barangay Mainit.",
+      "whatToDo": "Soak in the warm water and relax after a day of touring.",
+      "tip": "Go in the morning or evening when the air is cooler.",
+      "image": null,
+      "caption": "",
+      "id": "s011",
+      "cite": [
+        15,
+        1
+      ]
+    },
+    {
+      "type": "spot",
+      "section": "Boac",
+      "tag": "Cave • Boac",
+      "title": "Duyay Cave",
+      "subtitle": "A large, dark cave system filled with stalactites. Few visitors have explored its full length, which is said to run toward Tapuyan in Gasan.",
+      "category": "Cave",
+      "location": "Duyay, Boac",
+      "howToGet": "Ask the tourism office for a guide, then travel by road and on foot.",
+      "whatToDo": "Explore the chambers and tunnels with a guide.",
+      "tip": "Bring a headlamp, spare batteries and sturdy shoes.",
+      "image": null,
+      "caption": "",
+      "id": "s012",
+      "cite": [
+        15,
+        1
+      ]
+    },
+    {
+      "type": "spot",
+      "section": "Boac",
+      "tag": "Cave • Boac",
+      "title": "Balagasan Caves",
+      "subtitle": "Two separate caves about 100 meters apart. The larger one can be explored using rappel ropes.",
+      "category": "Cave",
+      "location": "Barangay Balagasan, Duyay, Boac",
+      "howToGet": "Arrange a guide and ropes through the municipal tourism office.",
+      "whatToDo": "Try cave rappelling and look for rock formations.",
+      "tip": "Only attempt the rappel with an experienced guide.",
+      "image": null,
+      "caption": "",
+      "id": "s013",
+      "cite": [
+        15,
+        1
+      ]
+    },
+    {
+      "type": "spot",
+      "section": "Boac",
+      "tag": "Waterfall • Boac",
+      "title": "Ginaras Falls",
+      "subtitle": "A 100-meter fall with six smaller falls beside it, set in the mountains of Barangay Duyay.",
+      "category": "Waterfall",
+      "location": "Sitio Banhigan, Barangay Duyay, Boac",
+      "howToGet": "Reach Duyay by road, then trek on foot with a local guide.",
+      "whatToDo": "Trek to the falls and swim in the cool pools.",
+      "tip": "Wear grippy footwear; the trail can be slippery.",
+      "image": null,
+      "caption": "",
+      "id": "s014",
+      "cite": [
+        15,
+        1
+      ]
+    },
+    {
+      "type": "spot",
+      "section": "Boac",
+      "tag": "Beach • Boac",
+      "title": "Amoingon Coastal Reef",
+      "subtitle": "A coastal area where marine life is visible 10 to 15 meters from the beachfront: butterflyfish, clownfish, lionfish and angelfish.",
+      "category": "Dive / Snorkel",
+      "location": "Barangay Amoingon, Boac",
+      "howToGet": "Travel by tricycle or jeepney from Boac town proper.",
+      "whatToDo": "Snorkel the shallow reef right off the shore.",
+      "tip": "Do not touch or stand on the coral.",
+      "image": null,
+      "caption": "",
+      "id": "s015",
+      "cite": [
+        15,
+        1
+      ]
+    },
+    {
+      "type": "spot",
+      "section": "Boac",
+      "tag": "Heritage • Boac",
+      "title": "Biglang-Awa Shrine & Marinduque Trade House",
+      "subtitle": "The shrine houses the patroness of the province, while the nearby trade house showcases products by Marinduque makers.",
+      "category": "Religious Site",
+      "location": "Poblacion and Barangay Santos, Boac",
+      "howToGet": "Both are reachable by tricycle from the town center.",
+      "whatToDo": "Visit the shrine, then browse local products for pasalubong.",
+      "tip": "Check opening hours with the tourism office first.",
+      "image": null,
+      "caption": "",
+      "id": "s016",
+      "cite": [
+        15,
+        1
+      ]
+    },
+    {
+      "type": "chapter",
+      "section": "Mogpog",
+      "tag": "Chapter 2 • Mogpog",
+      "title": "Gateway to the Heart",
+      "subtitle": "Mogpog welcomes most visitors at Balanacan Port. It is also known as the Home of the Original Moriones and holds the geodetic center of the Philippines.",
+      "id": "s017",
+      "image": null,
+      "caption": "",
+      "cite": [
+        2
+      ]
+    },
+    {
+      "type": "spot",
+      "section": "Mogpog",
+      "tag": "Landmark • Mogpog",
+      "title": "Luzon Datum of 1911",
+      "subtitle": "A stone marker atop Mataas na Bundok that serves as the primary geodetic reference point for Philippine maps and surveys, also known as Station Balanacan.",
+      "category": "Landmark / Viewpoint",
+      "location": "Barangay Hinanggayon, Mogpog",
+      "howToGet": "Go by tricycle or jeepney to the foot of Mataas na Bundok, then climb the stairway of several hundred steps to the hilltop.",
+      "whatToDo": "Stand at the marker that anchors Philippine mapping, enjoy views of the surrounding coast and sea, and take a commemorative photo.",
+      "tip": "Climb in the morning to avoid the midday heat.",
+      "id": "s018",
+      "image": null,
+      "caption": "",
+      "cite": [
+        1,
+        6
+      ]
+    },
+    {
+      "type": "spot",
+      "section": "Mogpog",
+      "tag": "Waterfall • Mogpog",
+      "title": "Paadjao Falls",
+      "subtitle": "Cascading about 100 feet into a natural pool, Paadjao is one of Mogpog's most beloved nature spots.",
+      "category": "Waterfall",
+      "location": "Sitio Paadjao, Barangay Bocboc, Mogpog",
+      "howToGet": "Travel from Mogpog town proper to Barangay Bocboc, then continue on a short walk to the falls.",
+      "whatToDo": "Swim in the pool, look for the natural rock tubs downstream, and enjoy a picnic or camping.",
+      "tip": "A good choice for families; go on a dry day for the safest footing.",
+      "id": "s019",
+      "image": null,
+      "caption": "",
+      "cite": [
+        1,
+        6
+      ]
+    },
+    {
+      "type": "spot",
+      "section": "Mogpog",
+      "tag": "Port • Mogpog",
+      "title": "Balanacan Port & Cove",
+      "subtitle": "The island's main sea gateway, with a large image of Our Lady of Biglang Awa greeting travelers at the shore.",
+      "category": "Port / Viewpoint",
+      "location": "Balanacan, Mogpog",
+      "howToGet": "Ferries from Dalahican Port in Lucena arrive here; tricycles and jeepneys wait at the port.",
+      "whatToDo": "Watch ferries come and go, photograph the shoreline and the Marian statue, and enjoy the cove at sunset.",
+      "tip": "Allow time here when arriving or leaving; it's a pleasant first and last stop.",
+      "id": "s020",
+      "image": null,
+      "caption": "",
+      "cite": [
+        1,
+        6
+      ]
+    },
+    {
+      "type": "spot",
+      "section": "Mogpog",
+      "tag": "Cave • Mogpog",
+      "title": "Bintakay Cave",
+      "subtitle": "A cave of both natural and historical interest, said to have served as a battle site during the revolution.",
+      "category": "Cave / History",
+      "location": "Mogpog",
+      "howToGet": "Arrange a local guide through the municipal tourism office and travel to the site by tricycle or habal-habal.",
+      "whatToDo": "Explore the cave with a guide, learn its wartime history and observe the rock formations.",
+      "tip": "Bring a flashlight or headlamp and wear sturdy shoes.",
+      "id": "s021",
+      "image": null,
+      "caption": "",
+      "cite": [
+        1,
+        6
+      ]
+    },
+    {
+      "type": "spot",
+      "section": "Mogpog",
+      "tag": "Cave • Mogpog",
+      "title": "Tarug Caves",
+      "subtitle": "Another of Mogpog's cave attractions for travelers who enjoy spelunking away from the crowds.",
+      "category": "Cave",
+      "location": "Mogpog",
+      "howToGet": "Coordinate with the municipal tourism office or a local guide; access is by road, then a short walk.",
+      "whatToDo": "Take a guided walk through the chambers and look for stalactites and other cave formations.",
+      "tip": "Never enter caves without a local guide.",
+      "id": "s022",
+      "image": null,
+      "caption": "",
+      "cite": [
+        1,
+        6
+      ]
+    },
+    {
+      "type": "spot",
+      "section": "Mogpog",
+      "tag": "Craft • Mogpog",
+      "title": "Moriones Mask Makers",
+      "subtitle": "Mogpog calls itself the Home of the Original Moriones, and local artisans still carve and paint the festival's famous masks.",
+      "category": "Culture / Craft",
+      "location": "Mogpog town proper",
+      "howToGet": "Ask at the municipal hall or tourism office to be directed to the mask makers.",
+      "whatToDo": "Watch masks and helmets being crafted, learn their meaning, and bring one home as a souvenir.",
+      "tip": "Visit before Holy Week to see workshops at their busiest.",
+      "id": "s023",
+      "image": null,
+      "caption": "Photo credit: Wikimedia Commons, file \"Moriones of Marinduque.jpg\" (license needs verification before use).",
+      "cite": [
+        1,
+        6,
+        4,
+        5
+      ],
+      "creditCite": [
+        14
+      ]
+    },
+    {
+      "type": "spot",
+      "section": "Mogpog",
+      "tag": "Islet • Mogpog",
+      "title": "Natangco Islet",
+      "subtitle": "An eight-hectare islet off Balanacan with a short stretch of white sand and waters rich in coral and marine life.",
+      "category": "Islet / Dive",
+      "location": "Off Balanacan Pier, Mogpog",
+      "howToGet": "Hire a boat from Balanacan.",
+      "whatToDo": "Dive, snorkel or picnic on the sand.",
+      "tip": "Bring your own water and food; there are no facilities.",
+      "image": null,
+      "caption": "",
+      "id": "s024",
+      "cite": [
+        15,
+        1
+      ]
+    },
+    {
+      "type": "chapter",
+      "section": "Gasan",
+      "tag": "Chapter 3 • Gasan",
+      "title": "Islands & Butterflies",
+      "subtitle": "Gasan is the island's southern gateway, home to the Tres Reyes Islands, butterfly gardens and the lively Gasang-Gasang Festival.",
+      "id": "s025",
+      "image": null,
+      "caption": "",
+      "cite": [
+        2,
+        9,
+        10
+      ]
+    },
+    {
+      "type": "spot",
+      "section": "Gasan",
+      "tag": "Islands • Gasan",
+      "title": "Tres Reyes Islands",
+      "subtitle": "Three islets off the coast, Gaspar, Melchor and Baltazar, named for the Three Kings. Gaspar has a small white-sand beach, Melchor is cliff-edged, and Baltazar is a prized dive site.",
+      "category": "Islands / Diving",
+      "location": "Off the coast of Gasan",
+      "howToGet": "Hire a motorized boat from the Gasan shoreline or arrange island hopping through a mainland resort.",
+      "whatToDo": "Snorkel and dive among coral gardens, relax on Gaspar's beach and photograph the rock formations.",
+      "tip": "Check sea conditions with boatmen before departing.",
+      "id": "s026",
+      "image": null,
+      "caption": "",
+      "cite": [
+        1,
+        6,
+        9,
+        10
+      ]
+    },
+    {
+      "type": "spot",
+      "section": "Gasan",
+      "tag": "Nature • Gasan",
+      "title": "Gasan Nature & Butterfly Park",
+      "subtitle": "A garden attraction that shows visitors Marinduque's butterfly culture and local biodiversity.",
+      "category": "Nature Park",
+      "location": "Gasan",
+      "howToGet": "A short jeepney or tricycle ride from the town proper.",
+      "whatToDo": "Walk through the gardens, see butterflies at different life stages, and learn about local breeding.",
+      "tip": "Best visited in the morning when butterflies are most active.",
+      "id": "s027",
+      "image": null,
+      "caption": "",
+      "cite": [
+        1,
+        6,
+        9,
+        10
+      ]
+    },
+    {
+      "type": "spot",
+      "section": "Gasan",
+      "tag": "Cave • Gasan",
+      "title": "Talao Cave",
+      "subtitle": "A cave in Gasan that adds an underground adventure to the town's coastal and garden attractions.",
+      "category": "Cave",
+      "location": "Gasan",
+      "howToGet": "Hire a guide through the local tourism office; reach the site by road, then on foot.",
+      "whatToDo": "Explore the cave chambers and spot natural formations with your guide.",
+      "tip": "Bring a headlamp and wear shoes with good grip.",
+      "id": "s028",
+      "image": null,
+      "caption": "",
+      "cite": [
+        1,
+        6,
+        9,
+        10
+      ]
+    },
+    {
+      "type": "spot",
+      "section": "Gasan",
+      "tag": "Culture • Gasan",
+      "title": "Gasan Town & Gasang-Gasang Festival",
+      "subtitle": "Gasan celebrates with street dancing at the Gasang-Gasang Festival and joins the island's Moriones Holy Week rites.",
+      "category": "Culture / Town",
+      "location": "Poblacion, Gasan",
+      "howToGet": "A short jeepney ride south of Boac along the coastal road.",
+      "whatToDo": "Shop for butterfly-themed crafts, sample Marinduque's famous arrowroot cookies (uraro) and catch a festival if you time your visit.",
+      "tip": "Check the provincial tourism office for the latest festival dates.",
+      "id": "s029",
+      "image": null,
+      "caption": "",
+      "cite": [
+        1,
+        6,
+        9,
+        10,
+        4,
+        5
+      ]
+    },
+    {
+      "type": "chapter",
+      "section": "Buenavista",
+      "tag": "Chapter 4 • Buenavista",
+      "title": "Malindig Country",
+      "subtitle": "Buenavista lies in the shadow of Mount Malindig, with healing waters, rolling hills and a famous island resort just offshore.",
+      "id": "s030",
+      "image": null,
+      "caption": "",
+      "cite": [
+        2
+      ]
+    },
+    {
+      "type": "spot",
+      "section": "Buenavista",
+      "tag": "Mountain • Buenavista",
+      "title": "Mount Malindig",
+      "subtitle": "At 1,157 meters, Marinduque's highest peak is a potentially active volcano shared by Buenavista and Torrijos, with an easy-to-moderate climb.",
+      "category": "Mountain / Hiking",
+      "location": "Buenavista and Torrijos",
+      "howToGet": "Trailheads are reached by tricycle or habal-habal from Buenavista or Torrijos; hire a local guide.",
+      "whatToDo": "Hike through grassland, farmland and mossy forest. Viewpoints along the trail look out on Tres Reyes, Elephant Island, Mindoro and Verde Island.",
+      "tip": "Start early; clouds often cover the summit by midday.",
+      "id": "s031",
+      "image": null,
+      "caption": "",
+      "cite": [
+        1,
+        6
+      ]
+    },
+    {
+      "type": "spot",
+      "section": "Buenavista",
+      "tag": "Hot Spring • Buenavista",
+      "title": "Malbog Sulphur Spring",
+      "subtitle": "Natural sulphur pools at the foot of Mount Malindig, believed by locals to have therapeutic properties.",
+      "category": "Hot Spring",
+      "location": "Barangay Malbog, Buenavista",
+      "howToGet": "Take a tricycle or jeepney from Buenavista town proper.",
+      "whatToDo": "Soak in warm, mineral-rich waters after a day of hiking or travel. A nearby resort also offers hot spring pools.",
+      "tip": "Sulphur's smell can cling to clothes; bring a change.",
+      "id": "s032",
+      "image": null,
+      "caption": "",
+      "cite": [
+        1,
+        6
+      ]
+    },
+    {
+      "type": "spot",
+      "section": "Buenavista",
+      "tag": "Island • Buenavista",
+      "title": "Elephant Island & Bellarocca",
+      "subtitle": "Named for its elephant-like shape, this islet off Barangay Lipata is home to the Bellarocca Island Resort and Spa and a sheltered beach.",
+      "category": "Island / Resort",
+      "location": "Off Barangay Lipata, Buenavista",
+      "howToGet": "A short boat transfer from the mainland jetty; arrange access through the resort.",
+      "whatToDo": "Enjoy sweeping sea views, swim or snorkel, and photograph the island against Malindig's backdrop.",
+      "tip": "Access is typically arranged through the resort; check ahead.",
+      "id": "s033",
+      "image": null,
+      "caption": "",
+      "cite": [
+        1,
+        6
+      ]
+    },
+    {
+      "type": "spot",
+      "section": "Buenavista",
+      "tag": "Viewpoint • Buenavista",
+      "title": "Haynon Hills",
+      "subtitle": "Rolling grassy hills that locals nickname the Chocolate Hills of Buenavista, with wide landscape views.",
+      "category": "Viewpoint / Nature",
+      "location": "Buenavista",
+      "howToGet": "Ask locals or the tourism office for current directions; reachable by motorcycle or tricycle.",
+      "whatToDo": "Walk the hilltops, enjoy sunset views and photograph the countryside.",
+      "tip": "Bring sun protection; there is little shade on the hills.",
+      "id": "s034",
+      "image": null,
+      "caption": "",
+      "cite": [
+        1,
+        6
+      ]
+    },
+    {
+      "type": "chapter",
+      "section": "Torrijos",
+      "tag": "Chapter 5 • Torrijos",
+      "title": "Coastlines & Battlefields",
+      "subtitle": "Torrijos is the island's southeastern town, with its best-known white-sand beach, a historic battle shrine and forest caves and falls.",
+      "id": "s035",
+      "image": null,
+      "caption": "",
+      "cite": [
+        2
+      ]
+    },
+    {
+      "type": "spot",
+      "section": "Torrijos",
+      "tag": "Beach • Torrijos",
+      "title": "Poctoy White Beach",
+      "subtitle": "A kilometer-long stretch of fine white sand facing the Sibuyan Sea, with Mount Malindig rising behind it.",
+      "category": "Beach",
+      "location": "Barangay Poctoy, Torrijos",
+      "howToGet": "Take a jeepney or bus from Boac or Santa Cruz to Torrijos, then a tricycle to the beach.",
+      "whatToDo": "Swim, snorkel, rent a cottage, camp under the stars and try fresh grilled seafood.",
+      "tip": "A small municipal entrance fee may apply.",
+      "id": "s036",
+      "image": null,
+      "caption": "",
+      "cite": [
+        1,
+        6
+      ]
+    },
+    {
+      "type": "spot",
+      "section": "Torrijos",
+      "tag": "History • Torrijos",
+      "title": "Battle of Pulang Lupa Shrine",
+      "subtitle": "A hilltop park marking the September 1900 battle in which Marinduque forces led by Col. Maximo Abad defeated an American column.",
+      "category": "Historical Shrine",
+      "location": "Barangay Pulang Lupa, Torrijos",
+      "howToGet": "Take a jeepney or tricycle from Torrijos town proper and ride uphill to the shrine.",
+      "whatToDo": "Read the markers, walk the grounds and appreciate the countryside views from the shrine.",
+      "tip": "Combine it with Poctoy for a day of history and beach time.",
+      "id": "s037",
+      "image": null,
+      "caption": "",
+      "cite": [
+        1,
+        6
+      ]
+    },
+    {
+      "type": "spot",
+      "section": "Torrijos",
+      "tag": "Cave • Torrijos",
+      "title": "Ka Amon Cave",
+      "subtitle": "A cave in Torrijos for visitors who want to try spelunking in a less-visited part of the island.",
+      "category": "Cave",
+      "location": "Torrijos",
+      "howToGet": "Arrange a local guide through the municipal tourism office.",
+      "whatToDo": "Explore the chamber with your guide and observe the formations.",
+      "tip": "Wear sturdy shoes and carry a light source.",
+      "id": "s038",
+      "image": null,
+      "caption": "",
+      "cite": [
+        1,
+        6
+      ]
+    },
+    {
+      "type": "spot",
+      "section": "Torrijos",
+      "tag": "Waterfall • Torrijos",
+      "title": "Basud Falls",
+      "subtitle": "One of Torrijos's inland waterfalls, a quiet spot for a refreshing dip.",
+      "category": "Waterfall",
+      "location": "Torrijos",
+      "howToGet": "Travel by tricycle or habal-habal to the trailhead, then walk with a guide.",
+      "whatToDo": "Swim in the pool, rest in the shade and enjoy the forest soundscape.",
+      "tip": "Check weather first; river levels rise quickly in heavy rain.",
+      "id": "s039",
+      "image": null,
+      "caption": "",
+      "cite": [
+        1,
+        6
+      ]
+    },
+    {
+      "type": "spot",
+      "section": "Torrijos",
+      "tag": "Waterfall • Torrijos",
+      "title": "Tabag Falls",
+      "subtitle": "Another of Torrijos's cascades, set in the forested hills inland from the coast.",
+      "category": "Waterfall",
+      "location": "Torrijos",
+      "howToGet": "Hire a local guide at the barangay or through the tourism office.",
+      "whatToDo": "Take a cooling swim, relax and enjoy a short nature trek.",
+      "tip": "Pack out all your trash to keep the falls pristine.",
+      "id": "s040",
+      "image": null,
+      "caption": "",
+      "cite": [
+        1,
+        6
+      ]
+    },
+    {
+      "type": "spot",
+      "section": "Torrijos",
+      "tag": "Dive • Torrijos",
+      "title": "Costa Celina",
+      "subtitle": "A dive spot flanked by cliffs, with an undersea wall about 40 meters from shore that is rich in marine plants and animals.",
+      "category": "Dive Spot",
+      "location": "Sitio Talisay, Barangay Bonliw, Torrijos",
+      "howToGet": "Travel by road from Torrijos town proper to Sitio Talisay.",
+      "whatToDo": "Dive or snorkel along the undersea wall.",
+      "tip": "Check sea conditions and book a local dive guide.",
+      "image": null,
+      "caption": "",
+      "id": "s041",
+      "cite": [
+        15,
+        1
+      ]
+    },
+    {
+      "type": "chapter",
+      "section": "Santa Cruz",
+      "tag": "Chapter 6 • Santa Cruz",
+      "title": "The Island-Hopping Gateway",
+      "subtitle": "Santa Cruz is Marinduque's largest municipality, with powder-white islands and sandbars offshore and some of the island's biggest caves inland.",
+      "id": "s042",
+      "image": null,
+      "caption": "",
+      "cite": [
+        2
+      ]
+    },
+    {
+      "type": "spot",
+      "section": "Santa Cruz",
+      "tag": "Island • Santa Cruz",
+      "title": "Maniwaya Island",
+      "subtitle": "A long stretch of powdery white sand and turquoise water, lined with cottages and coconut palms and facing the mainland mountains.",
+      "category": "Island Beach",
+      "location": "Off the coast of Santa Cruz",
+      "howToGet": "Take a motorized outrigger boat from Buyabod Port; resorts on the island can arrange transfers.",
+      "whatToDo": "Swim, kayak, paddleboard, camp on the sand and use the island as a base for nearby attractions.",
+      "tip": "Book accommodations and boat transfers in advance during holidays.",
+      "id": "s043",
+      "image": null,
+      "caption": "",
+      "cite": [
+        1,
+        6
+      ]
+    },
+    {
+      "type": "spot",
+      "section": "Santa Cruz",
+      "tag": "Sandbar • Santa Cruz",
+      "title": "Palad Sandbar",
+      "subtitle": "A long white sandbar near Maniwaya that seems to float on the sea when the tide is right.",
+      "category": "Sandbar",
+      "location": "Near Maniwaya Island, Santa Cruz",
+      "howToGet": "Ask your Maniwaya resort or boatmen to take you; trips are short.",
+      "whatToDo": "Wade in the shallows, photograph the sandbar and enjoy the open sea views.",
+      "tip": "Check tides and give other visitors space for photos.",
+      "id": "s044",
+      "image": null,
+      "caption": "",
+      "cite": [
+        1,
+        6
+      ]
+    },
+    {
+      "type": "spot",
+      "section": "Santa Cruz",
+      "tag": "Island • Santa Cruz",
+      "title": "Mongpong Island & Ungab Rock",
+      "subtitle": "The farthest of the offshore islands, with a long white beach of crushed coral and the arching Ungab Rock formation about 100 feet high.",
+      "category": "Island / Diving",
+      "location": "Off the coast of Santa Cruz",
+      "howToGet": "Arrange a boat from Buyabod Port or a Maniwaya resort.",
+      "whatToDo": "Photograph the Ungab Rock arch, swim along the east beach and dive at the island's northern sites.",
+      "tip": "Seas can be rough; travel with experienced boatmen.",
+      "id": "s045",
+      "image": null,
+      "caption": "",
+      "cite": [
+        1,
+        6
+      ]
+    },
+    {
+      "type": "spot",
+      "section": "Santa Cruz",
+      "tag": "Cave • Santa Cruz",
+      "title": "Bathala Caves",
+      "subtitle": "A complex of seven caves, four of which are open to visitors: Church Cave, Secret Cave, Python Cave and Cemetery Cave.",
+      "category": "Cave System",
+      "location": "Near Barangay Ipil, Santa Cruz",
+      "howToGet": "Hire a habal-habal and a local guide from Santa Cruz town proper.",
+      "whatToDo": "Walk through chambers with stalactites and stalagmites, see resident bats and learn the caves' folklore.",
+      "tip": "Bring a headlamp; the caves are dark and uneven.",
+      "id": "s046",
+      "image": null,
+      "caption": "",
+      "cite": [
+        1,
+        6
+      ]
+    },
+    {
+      "type": "spot",
+      "section": "Santa Cruz",
+      "tag": "Cave • Santa Cruz",
+      "title": "Bagumbungan Cave",
+      "subtitle": "A cave of about 1.9 kilometers with small waterfalls and an underground stream, popular with adventurous spelunkers.",
+      "category": "Cave / Adventure",
+      "location": "Barangay San Isidro, Santa Cruz",
+      "howToGet": "Arrange a local guide and a ride from Santa Cruz town proper.",
+      "whatToDo": "Climb, duck and wade through chambers of stalactites and flowstone. Two routes are available: a halfway turn-back or the full traverse.",
+      "tip": "Moderate fitness is required; wear shoes that can get wet.",
+      "id": "s047",
+      "image": null,
+      "caption": "",
+      "cite": [
+        1,
+        6
+      ]
+    },
+    {
+      "type": "spot",
+      "section": "Santa Cruz",
+      "tag": "Waterfall • Santa Cruz",
+      "title": "Kawa-Kawa Falls",
+      "subtitle": "A set of cascades with several kettle-like wading pools, a favorite for a quick, relaxed swim.",
+      "category": "Waterfall",
+      "location": "Santa Cruz",
+      "howToGet": "A short ride from Santa Cruz town proper followed by an easy walk.",
+      "whatToDo": "Wade through the pools, picnic by the water and take photos of the cascades.",
+      "tip": "Bring a dry bag and waterproof camera.",
+      "id": "s048",
+      "image": null,
+      "caption": "",
+      "cite": [
+        1,
+        6
+      ]
+    },
+    {
+      "type": "spot",
+      "section": "Santa Cruz",
+      "tag": "Adventure • Santa Cruz",
+      "title": "Carmen Eco-Adventure Park",
+      "subtitle": "An outdoor park that adds activities and nature experiences to the Santa Cruz itinerary.",
+      "category": "Eco-Adventure",
+      "location": "Santa Cruz",
+      "howToGet": "Reach by tricycle or habal-habal from Santa Cruz town proper; check opening times first.",
+      "whatToDo": "Enjoy the park's outdoor activities and the greenery.",
+      "tip": "Confirm activities and rates with the park before visiting.",
+      "id": "s049",
+      "image": null,
+      "caption": "",
+      "cite": [
+        1,
+        6
+      ]
+    },
+    {
+      "type": "spot",
+      "section": "Santa Cruz",
+      "tag": "Heritage • Santa Cruz",
+      "title": "Baluarte de Santa Cruz",
+      "subtitle": "A Spanish-colonial defensive structure that reminds visitors of the island's coastal past.",
+      "category": "Heritage Site",
+      "location": "Santa Cruz",
+      "howToGet": "Ask locals or the tourism office for directions from the town proper.",
+      "whatToDo": "See the old stonework, learn about the town's history and take photographs.",
+      "tip": "Wear comfortable shoes; the ground can be uneven.",
+      "id": "s050",
+      "image": null,
+      "caption": "",
+      "cite": [
+        1,
+        6
+      ]
+    },
+    {
+      "type": "spot",
+      "section": "Santa Cruz",
+      "tag": "Island • Santa Cruz",
+      "title": "Polo Island",
+      "subtitle": "An islet about 35 minutes by boat from the Santa Cruz pier, with a white-sand beach and low sandy cliffs along its coast.",
+      "category": "Island",
+      "location": "Off the coast of Santa Cruz",
+      "howToGet": "Hire a boat at the Santa Cruz pier.",
+      "whatToDo": "Swim, picnic and camp on the beach.",
+      "tip": "Bring drinking water and camping gear.",
+      "image": null,
+      "caption": "",
+      "id": "s051",
+      "cite": [
+        15,
+        1
+      ]
+    },
+    {
+      "type": "spot",
+      "section": "Santa Cruz",
+      "tag": "Island • Santa Cruz",
+      "title": "Salomague Island",
+      "subtitle": "A privately owned island with a half-kilometer white beach of crushed coral and a good dive site to its northeast.",
+      "category": "Island / Dive",
+      "location": "Off the coast of Santa Cruz",
+      "howToGet": "Hire a boat from Santa Cruz.",
+      "whatToDo": "Dive off the northeast side of the islet.",
+      "tip": "Secure permission before landing; the island is private.",
+      "image": null,
+      "caption": "",
+      "id": "s052",
+      "cite": [
+        15,
+        1
+      ]
+    },
+    {
+      "type": "spot",
+      "section": "Santa Cruz",
+      "tag": "Church • Santa Cruz",
+      "title": "Santa Cruz Church",
+      "subtitle": "Built in 1714 and renovated in later years, its tower still keeps its original solidity.",
+      "category": "Church / Heritage",
+      "location": "Poblacion, Santa Cruz",
+      "howToGet": "A short tricycle ride within Santa Cruz town proper.",
+      "whatToDo": "Admire the old tower and the church grounds.",
+      "tip": "Dress modestly; it is an active place of worship.",
+      "image": null,
+      "caption": "",
+      "id": "s053",
+      "cite": [
+        15,
+        1
+      ]
+    },
+    {
+      "type": "cards",
+      "section": "Essentials",
+      "tag": "Culture • Festivals",
+      "title": "Festivals & Traditions",
+      "subtitle": "Marinduque's calendar is full of colorful celebrations rooted in faith and community.",
+      "cards": [
+        {
+          "icon": "star",
+          "title": "Moriones Festival",
+          "desc": "Holy Week reenactment of the story of Longinus, with masked and costumed centurions in Boac, Mogpog and Gasan."
+        },
+        {
+          "icon": "heart",
+          "title": "Putong",
+          "desc": "A traditional welcome ceremony with songs, prayers and dances, offered to honored guests."
+        },
+        {
+          "icon": "users",
+          "title": "Kangga Festival",
+          "desc": "Mogpog's cultural celebration, featuring decorated carts and street processions."
+        },
+        {
+          "icon": "calendar",
+          "title": "Bila-Bila Festival",
+          "desc": "Boac's festival highlighting the town's heritage and community spirit."
+        },
+        {
+          "icon": "sun",
+          "title": "Gasang-Gasang Festival",
+          "desc": "Gasan's lively street dancing and pageantry."
+        },
+        {
+          "icon": "landmark",
+          "title": "Immaculate Conception Fiesta",
+          "desc": "Boac's town fiesta falls on the feast of the Immaculate Conception on December 8."
+        }
+      ],
+      "id": "s054",
+      "image": null,
+      "caption": "",
+      "cite": [
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "type": "cards",
+      "section": "Essentials",
+      "tag": "Taste • Take Home",
+      "title": "Food & Pasalubong",
+      "subtitle": "Bring home a taste, or a piece, of the island.",
+      "cards": [
+        {
+          "icon": "coffee",
+          "title": "Uraro (Arrowroot) Cookies",
+          "desc": "Marinduque's most famous pasalubong: light, crumbly cookies made from arrowroot."
+        },
+        {
+          "icon": "star",
+          "title": "Moriones Masks",
+          "desc": "Hand-carved and painted masks and helmets, made by local artisans."
+        },
+        {
+          "icon": "waves",
+          "title": "Fresh Seafood",
+          "desc": "Grilled fish and shellfish at beachfront cottages, especially along the coast."
+        },
+        {
+          "icon": "heart",
+          "title": "Local Crafts",
+          "desc": "Woven goods, framed souvenirs and handmade keepsakes from town markets."
+        }
+      ],
+      "id": "s055",
+      "image": null,
+      "caption": "",
+      "cite": [
+        7,
+        8
+      ]
+    },
+    {
+      "type": "cards",
+      "section": "Essentials",
+      "tag": "Plan Your Trip",
+      "title": "Getting There & Around",
+      "subtitle": "Marinduque is reached by sea from Lucena, Quezon, with other options depending on schedules.",
+      "cards": [
+        {
+          "icon": "anchor",
+          "title": "By Ferry",
+          "desc": "Ferries from Dalahican Port in Lucena arrive at Balanacan (Mogpog), Cawit (Boac) and Buyabod (Santa Cruz)."
+        },
+        {
+          "icon": "navigation",
+          "title": "By Bus and Ferry",
+          "desc": "Bus lines from Metro Manila connect with the ferry at Lucena and continue on the island."
+        },
+        {
+          "icon": "compass",
+          "title": "By Air",
+          "desc": "Marinduque Airport is in Gasan. Flight availability changes, so check current schedules."
+        },
+        {
+          "icon": "pin",
+          "title": "Getting Around",
+          "desc": "Jeepneys, tricycles and habal-habal link the towns; motorcycles can be rented for flexibility."
+        }
+      ],
+      "id": "s056",
+      "image": null,
+      "caption": "",
+      "cite": [
+        2,
+        6,
+        12
+      ]
+    },
+    {
+      "type": "cards",
+      "section": "Essentials",
+      "tag": "Good to Know",
+      "title": "Travel Tips",
+      "subtitle": "A few notes to make your visit smoother and more responsible.",
+      "cards": [
+        {
+          "icon": "calendar",
+          "title": "Time Your Visit",
+          "desc": "Holy Week is Moriones season. Book transport and lodging well ahead."
+        },
+        {
+          "icon": "sun",
+          "title": "Dry Weather for the Sea",
+          "desc": "Calmer, drier months are best for island hopping and for waterfall and cave trips."
+        },
+        {
+          "icon": "users",
+          "title": "Use Local Guides",
+          "desc": "Caves, falls and Malindig are best done with a guide who knows the terrain."
+        },
+        {
+          "icon": "info",
+          "title": "Carry Cash",
+          "desc": "Many rural attractions and boatmen accept cash only. Bring enough with you."
+        },
+        {
+          "icon": "shield",
+          "title": "Stay Safe",
+          "desc": "Check weather and sea conditions, and avoid caves and rivers after heavy rain."
+        },
+        {
+          "icon": "heart",
+          "title": "Travel Responsibly",
+          "desc": "Take your trash with you, respect wildlife and support community-run services."
+        }
+      ],
+      "id": "s057",
+      "image": null,
+      "caption": "",
+      "cite": [
+        2,
+        6,
+        12
+      ]
+    },
+    {
+      "type": "closing",
+      "section": "Essentials",
+      "tag": "Maraming Salamat",
+      "title": "Come Discover Marinduque",
+      "subtitle": "The Heart of the Philippines is waiting for you.",
+      "id": "s058",
+      "image": null,
+      "caption": "",
+      "cite": [
+        2,
+        6,
+        12
+      ]
+    },
+    {
+      "type": "sources",
+      "section": "Essentials",
+      "tag": "References",
+      "title": "Sources and Photo Credits",
+      "subtitle": "Every claim in this presentation is numbered. Every photo or video carries its credit and license.",
+      "image": null,
+      "caption": "",
+      "cite": [],
+      "id": "s059"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "discover-marinduque-presentation",
+  "version": "2.1.0",
+  "description": "A professional full-screen presentation website for Marinduque, with an admin mode for editing text and uploading photos",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {}
+}
